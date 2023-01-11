@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-ts-small-course/static/css/main.fd5b05e0.css",
+    "main.js": "/react-ts-small-course/static/js/main.9f63eab4.js",
+    "index.html": "/react-ts-small-course/index.html",
+    "main.fd5b05e0.css.map": "/react-ts-small-course/static/css/main.fd5b05e0.css.map",
+    "main.9f63eab4.js.map": "/react-ts-small-course/static/js/main.9f63eab4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd5b05e0.css",
+    "static/js/main.9f63eab4.js"
+  ]
+}
